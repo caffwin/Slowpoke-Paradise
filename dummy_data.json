@@ -1,0 +1,14 @@
+
+
+// zukan = CollectionItem()
+
+[
+    {
+    // img = 
+    img_title = "Zukan Figure" 
+    img_desc = "1:40 scale high quality figurine"
+    region = "Japan"
+    // date = datetime.datetime.today()
+    category = "Figure"
+}
+]
